@@ -7,7 +7,7 @@ This is the **official repository** for the paper:
 📌 **All code, pretrained models, and datasets will be released upon paper acceptance.**
 
 The dataset can be accessed here: [Dataset](https://www.modelscope.cn/datasets/zhuofanChen/TriView2CAD)
-The pretrained models can be accessed here: [Model]([https://www.modelscope.cn/datasets/zhuofanChen/TriView2CAD](https://www.modelscope.cn/models/zhuofanChen/CReFT-CAD))
+The pretrained models can be accessed here: [Model](https://www.modelscope.cn/models/zhuofanChen/CReFT-CAD)
 
 # TriView2CAD Dataset
 
